@@ -1,0 +1,1 @@
+web: build/install/com.impact.expenses/bin/com.impact.expenses
