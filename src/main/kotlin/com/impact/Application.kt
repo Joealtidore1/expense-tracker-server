@@ -8,7 +8,7 @@ fun main(args: Array<String>): Unit =
     EngineMain.main(args)
 
 fun Application.module() {
-    //configureStatusPages()
+    configureStatusPages()
     configureDependencyInjection()
     configureRouting()
     configureSerialization()
